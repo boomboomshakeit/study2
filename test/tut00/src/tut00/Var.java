@@ -25,7 +25,7 @@ public class Var {
 		
 		System.out.println(d1 - d2);
 		
-		//작은 것은 큰거에 담아도 손실이 없음 
+		//작은 것은 큰거에 담아도 손실이 없음 ㅇ
 		//큰것을 작은 것에 담으면 손실이 있음
 		//int는 저장 공간이 4byte(32bit)
 		//double은 저장공간이 8byte(64bit)
